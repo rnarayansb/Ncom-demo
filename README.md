@@ -1,2 +1,0 @@
-# Ncom-demo
-Ncom demo
